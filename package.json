@@ -1,0 +1,25 @@
+{
+  "name": "@alanjbibins/ui",
+  "version": "1.0.0",
+  "description": "Simple UI Library crafted using React, TailwindCSS, TailwindCSS Motion and Typescript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-J-Bibins/ui.git"
+  },
+  "keywords": [
+    "ui",
+    "react",
+    "tailwindcss",
+    "tailwindcss-motion"
+  ],
+  "author": "Alan J Bibins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan-J-Bibins/ui/issues"
+  },
+  "homepage": "https://github.com/Alan-J-Bibins/ui#readme"
+}
